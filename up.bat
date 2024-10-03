@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 REM Đặt thư mục chứa các file cần upload
-set DIRECTORY_TO_UPLOAD="D:\CÔNG VIỆC"
+set DIRECTORY_TO_UPLOAD="E:\CÔNG VIỆC"
 
 REM Địa chỉ web server Flask của bạn
 set SERVER_URL=http://10.38.18.11:9000/upload
